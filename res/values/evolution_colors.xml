@@ -9,5 +9,5 @@
     <color name="gicon_mask">#14000000</color>
     
     <!-- Appseat -->
-    <color name="appseat_color">#FFD9DADB</color>
+    <color name="appseat_color">@*android:color/system_neutral2_50</color>
 </resources>
